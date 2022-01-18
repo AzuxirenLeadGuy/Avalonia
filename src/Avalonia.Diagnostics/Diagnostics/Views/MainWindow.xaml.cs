@@ -256,7 +256,7 @@ namespace Avalonia.Diagnostics.Views
             {
                 if (Styles[0] is SimpleTheme st)
                 {
-                    st.Mode = SimpleThemeMode.Dark;
+                    //st.Mode = SimpleThemeMode.Dark;
                 }                
             }
         }

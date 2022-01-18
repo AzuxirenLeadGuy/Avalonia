@@ -10,7 +10,7 @@
   </Window.DataTemplates>
   
   <Window.Styles>
-    <default:SimpleTheme Mode="Light"/>
+    <default:SimpleTheme />
     <StyleInclude Source="resm:Avalonia.Controls.DataGrid.Themes.Default.xaml?assembly=Avalonia.Controls.DataGrid"/>
     <Style Selector="DataGrid ContextMenu">
       <Setter Property="Foreground" Value="Black"/>
